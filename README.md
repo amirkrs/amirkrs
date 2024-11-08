@@ -21,7 +21,8 @@ I'm an up and coming Software engineer with a thirst to design tools that not di
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-<br>
-<br>
+---
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirkrs&show_icons=true&theme=transparent)

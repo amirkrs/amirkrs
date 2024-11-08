@@ -1,7 +1,7 @@
 ## Amir Khorsand
 
 `Software engineer/Digital Minimalist` <br>
-I'm a up and coming Software engineer with a thirst to design tools that not distract, but help people in their day to day life. I'm also an advocater for free open-source software and as a result, I dabble in big and small open source community projects that I believe can benefit society. The list of projects seen below is a combination of my academic life and the rabbit holes I dive into.
+I'm an up and coming Software engineer with a thirst to design tools that not distract, but help people in their day to day life. I'm also an advocater for free open-source software and as a result, I dabble in big and small open source community projects that I believe can benefit society. The list of projects seen below is a combination of my academic life and the rabbit holes I dive into.
 
 <hr>
 
@@ -21,6 +21,7 @@ I'm a up and coming Software engineer with a thirst to design tools that not dis
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirkrs&show_icons=true&theme=transparent)
